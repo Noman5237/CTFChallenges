@@ -11,7 +11,7 @@ encryptedFlag=$(grep -o "{.*}" --color=never ciphertext)
 
 for i in {1..26}
 do
-	possibleFlag=$(../caesar.py $encryptedFlag $i)
+	possibleFlag=$(~/Links/CTF-tools/crypto/caesar.py $encryptedFlag $i)
 	echo "picoCTF$possibleFlag"
 done
 

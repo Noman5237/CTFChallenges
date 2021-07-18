@@ -10,7 +10,7 @@ pushd build/ > /dev/null
 text=$1
 key=$2
 
-flag="picoCTF{$(../vigenere.py -d -t ${text} -k ${key})}"
+flag="picoCTF{$(~/Links/CTF-tools/crypto/vigenere.py -d -t ${text} -k ${key})}"
 
 popd > /dev/null
 
