@@ -1,0 +1,11 @@
+Popular tools for anaylyzing and detecting steganography on linux are:
+1. Steghide
+2. Binwalk
+
+Digital forensics analysis tools:
+1. Autopsy
+2. The sleuth kit
+
+Network forensics tools:
+1. Wireshark
+

@@ -1,0 +1,8 @@
+Popular Disassemblers:
+1. IDA
+2. GDB
+
+Popular Decompilers:
+1. PISpy
+2. Ghidra
+
