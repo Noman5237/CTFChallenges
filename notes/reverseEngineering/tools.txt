@@ -6,3 +6,5 @@ Popular Decompilers:
 1. PISpy
 2. Ghidra
 
+Basic Malware Analysis:
+1. cuckoosandbox
